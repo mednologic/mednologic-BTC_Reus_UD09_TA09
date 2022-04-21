@@ -16,7 +16,6 @@ public class VideojuegoClass implements Entregable_Inter {
 	//Constructor con titulo y horas estimadas
 		
 		public VideojuegoClass(String titulo, int horasEstimadas) {
-			super();
 			this.titulo = titulo;
 			this.horasEstimadas = horasEstimadas;
 		}
@@ -24,7 +23,6 @@ public class VideojuegoClass implements Entregable_Inter {
 	//Constructor con todos los atributos menos entregado
 		
 		public VideojuegoClass(String titulo, int horasEstimadas, String genero, String creador) {
-			super();
 			this.titulo = titulo;
 			this.horasEstimadas = horasEstimadas;
 			this.genero = genero;

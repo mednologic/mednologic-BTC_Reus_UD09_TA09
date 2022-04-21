@@ -7,7 +7,7 @@ import Class.VideojuegoClass;
  * 
  * Ejercicio 2 - Control de alquiler de videojuegos y series
  * 
- * @version:	0.0.1, @fecha: 16/04/2022
+ * @version:	0.1.1, @fecha: 16/04/2022
  * @author: Octavio Bernal / David Dalmau / Oriol López
  * 
  */
