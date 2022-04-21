@@ -1,4 +1,4 @@
-package Pr05;
+package Class;
 
 public class PersonaClass {
 	

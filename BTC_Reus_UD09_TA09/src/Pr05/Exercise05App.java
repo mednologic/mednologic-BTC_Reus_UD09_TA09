@@ -1,10 +1,21 @@
 package Pr05;
 
+/**
+ * 
+ * @author joseporiollopezbosch
+ * @date 19/04/2022
+ * @version 0.1.1
+ */
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
-public class MainApp {
+import Class.AlumnoClass;
+import Class.AulaClass;
+import Class.ProfesorClass;
+
+public class Exercise05App {
 	
 	//Listado de apellidos para alumnos y profesores
 	public static String[] apellidos = { "Gomez", "Guerrero", "Cardenas", "Cardiel", "Cardona", "Cardoso", "Cariaga", "Carillo",
